@@ -8,7 +8,7 @@
 #= require codemirror/modes/markdown
 #= require codemirror/modes/xml
 #= require codemirror/addons/edit/closetag
-#= require bootstrap-sprockets
+#= require comfy/admin/cms/lib/bootstrap-3_3_7
 #= require comfy/admin/cms/lib/bootstrap-datetimepicker
 #= require comfy/admin/cms/lib/diff
 #= require comfy/admin/cms/lib/redactor
